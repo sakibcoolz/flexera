@@ -7,7 +7,7 @@ make run
 
 run test
 ```
-make run
+make test
 ```
 
 build 
